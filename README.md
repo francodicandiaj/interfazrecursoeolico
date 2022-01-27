@@ -8,4 +8,4 @@ Los pasos para utilizar este programa son los siguientes:
 3. Verificar en PyCharm Community Edition cumplir con todas las especificaciones del archivo manual de usuario que se encuentra en la carpeta
 4. Abrir la carpeta descargada 
 5. Ejecutar el archivo main
-6. Seleccionar la zona para observar los resultados del Recurso Eólico (por cada zona se abrirá una ventana)
+6. Seleccionar la zona para observar los resultados del Recurso Eólico disponible (por cada zona se abrirá una ventana)
